@@ -209,7 +209,7 @@ body>nav, header nav {
 	position: var(--navpos);
 	top: 0; left: 0; right: 0;
 	z-index: 41;
-	box-shadow: 0vw -50vw 0 50vw var(--clight), 0 calc(-50vw + 2px) 4px 50vw var(--cdark);
+	border-bottom: 1px solid var(--cdark)
 }
 nav ul { list-style-type: none; }
 nav ul:first-child { margin: 0; padding: 0; overflow: visible; }
