@@ -20,6 +20,27 @@ Table of Contents:
 	--border: 1px solid var(--cmed);
 }
 
+html[data-theme='dark'] {
+	--cfg: #cecbc4;
+	--cbg: #252220;
+	--cdark: #999;
+	--clight: #333;
+	--cmed: #566;
+	--clink: #1ad;
+	--cemph: #0b9;
+	--cemphbg: #0b91;
+}
+html[data-theme='light'] {
+	--cfg: #433;
+	--cbg: #fff;
+	--cdark: #888;
+	--clight: #f5f6f7;
+	--cmed: #d1d1d1;
+	--clink: #07c;
+	--cemph: #088;
+	--cemphbg: #0881;
+}
+
 
 /* 2. Reset –––––––––––––––––––––––––––––––––––––––––––– */
 
