@@ -298,7 +298,6 @@ fieldset select, input:not([type=checkbox]):not([type=radio]) {
 }
 button, select {
 	font-weight: bold;
-	margin: .5em;
 	border: 1.5px solid var(--clink);
 }
 button { padding: 0.4em 1em; font-size: 85%; letter-spacing: 0.1em; }
