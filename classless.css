@@ -30,6 +30,7 @@ html[data-theme='dark'] {
 	--cemph: #0b9;
 	--cemphbg: #0b91;
 }
+
 html[data-theme='light'] {
 	--cfg: #433;
 	--cbg: #fff;
@@ -40,6 +41,18 @@ html[data-theme='light'] {
 	--cemph: #088;
 	--cemphbg: #0881;
 }
+
+html[data-theme='spider'] {
+    --cfg: #d92323;
+    --cbg: #1a1a1a;
+    --cdark: #0b0b0b; 
+    --clight: #2b2b2b;
+    --cmed: #1c3069;
+    --clink: #dd3333;
+    --cemph: #ff6161;
+    --cemphbg: #ff61611a;
+}
+
 
 
 /* 2. Reset –––––––––––––––––––––––––––––––––––––––––––– */
