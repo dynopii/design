@@ -75,3 +75,59 @@ html[data-theme='stackoverflow'] {
     --clink: #F48024;
     --cemphbg: #F480241A;
 }
+
+html[data-theme='midnight-elegance'] {
+    --cfg: #C0C0C0;
+    --cbg: #0F0F0F;
+    --cdark: #383838;
+    --clight: #505050;
+    --cmed: #686868;
+    --clink: #B0C4DE;
+    --cemph: #778899;
+    --cemphbg: #7788991A;
+}
+
+html[data-theme='retro-wave'] {
+    --cfg: #FFD700;
+    --cbg: #241E4E;
+    --cdark: #D64DFF;
+    --clight: #1AFFD5;
+    --cmed: #FF0090;
+    --clink: #00BFFF;
+    --cemph: #08F7FE;
+    --cemphbg: #08F7FE1A;
+}
+
+html[data-theme='autumn-whisper'] {
+    --cfg: #3B2918;
+    --cbg: #FFF8E7;
+    --cdark: #A65E44;
+    --clight: #E6D5C3;
+    --cmed: #D8A25F;
+    --clink: #9E643C;
+    --cemph: #B28451;
+    --cemphbg: #B284511A;
+}
+
+html[data-theme='mystic-garden'] {
+    --cfg: #E3E4FA;
+    --cbg: #123456;
+    --cdark: #0B3B60;
+    --clight: #8A9A5B;
+    --cmed: #6B8E23;
+    --clink: #CDB5CD;
+    --cemph: #DA70D6;
+    --cemphbg: #DA70D61A;
+}
+
+html[data-theme='arctic-dawn'] {
+    --cfg: #DAF7FF;
+    --cbg: #2F4F4F;
+    --cdark: #445B65;
+    --clight: #8FB1C7;
+    --cmed: #68A0B0;
+    --clink: #B0E0E6;
+    --cemph: #BBD4DF;
+    --cemphbg: #BBD4DF1A;
+}
+
