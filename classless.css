@@ -42,29 +42,6 @@ html[data-theme='light'] {
 	--cemphbg: #0881;
 }
 
-html[data-theme='spider'] {
-    --cfg: #d92323;
-    --cbg: #1a1a1a;
-    --cdark: #0b0b0b; 
-    --clight: #2b2b2b;
-    --cmed: #1c3069;
-    --clink: #004fff;
-    --cemph: #ff6161;
-    --cemphbg: #ff61611a;
-}
-
-html[data-theme='matrix'] {
-    --cfg: #20b25d;
-    --cbg: #000000;
-    --cdark: #0a0a0a;
-    --clight: #1c1c1c; 
-    --cmed: #113311; 
-    --clink: #25d767;
-    --cemph: #4af78e; 
-    --cemphbg: #4af78e1a;
-}
-
-
 
 /* 2. Reset –––––––––––––––––––––––––––––––––––––––––––– */
 
