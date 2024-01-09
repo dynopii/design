@@ -131,3 +131,57 @@ html[data-theme='arctic-dawn'] {
     --cemphbg: #BBD4DF1A;
 }
 
+html[data-theme='google'] {
+    --cfg: #202124;
+    --cbg: #FFFFFF;
+    --cdark: #5F6368;
+    --clight: #E8EAED;
+    --cmed: #BDC1C6;
+    --clink: #4285F4;
+    --cemph: #EA4335;
+    --cemphbg: #EA43351A;
+}
+
+html[data-theme='youtube'] {
+    --cfg: #FFFFFF;
+    --cbg: #282828;
+    --cdark: #181818;
+    --clight: #383838;
+    --cmed: #606060;
+    --clink: #FF0000;
+    --cemph: #FF0000;
+    --cemphbg: #FF00001A;
+}
+
+html[data-theme='facebook'] {
+    --cfg: #FFFFFF;
+    --cbg: #3B5998;
+    --cdark: #1C2E4A;
+    --clight: #4C66A4;
+    --cmed: #8B9DC3;
+    --clink: #D8DADF;
+    --cemph: #8B9DC3;
+    --cemphbg: #8B9DC31A;
+}
+
+html[data-theme='twitter'] {
+    --cfg: #FFFFFF;
+    --cbg: #1DA1F2;
+    --cdark: #1A91DA;
+    --clight: #4AB3F4;
+    --cmed: #A4D3F3;
+    --clink: #FFFFFF;
+    --cemph: #FFFFFF;
+    --cemphbg: #FFFFFF1A;
+}
+
+html[data-theme='instagram'] {
+    --cfg: #262626;
+    --cbg: #FAFAFA;
+    --cdark: #B2B2B2;
+    --clight: #DBDBDB;
+    --cmed: #F09433; /* Instagram's gradient start */
+    --clink: #F09433;
+    --cemph: #C13584; /* Instagram's gradient end */
+    --cemphbg: #C135841A;
+}
