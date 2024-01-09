@@ -1,3 +1,26 @@
+html[data-theme='hclight'] {
+    --cfg: #000000;
+    --cbg: #FFFFFF;
+    --cdark: #555555;
+    --clight: #DDDDDD;
+    --cmed: #AAAAAA;
+    --clink: #0000EE;
+    --cemph: #FF0000;
+    --cemphbg: #FF00001A;
+}
+
+html[data-theme='hcdark'] {
+    --cfg: #FFFFFF;
+    --cbg: #000000;
+    --cdark: #AAAAAA;
+    --clight: #222222;
+    --cmed: #555555;
+    --clink: #4499FF;
+    --cemph: #FF5555;
+    --cemphbg: #FF55551A;
+}
+
+
 html[data-theme='spider'] {
     --cfg: #d92323;
     --cbg: #1a1a1a;
