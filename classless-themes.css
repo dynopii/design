@@ -1,0 +1,54 @@
+html[data-theme='spider'] {
+    --cfg: #d92323;
+    --cbg: #1a1a1a;
+    --cdark: #0b0b0b; 
+    --clight: #2b2b2b;
+    --cmed: #1c3069;
+    --clink: #004fff;
+    --cemph: #ff6161;
+    --cemphbg: #ff61611a;
+}
+
+html[data-theme='matrix'] {
+    --cfg: #20b25d;
+    --cbg: #000000;
+    --cdark: #0a0a0a;
+    --clight: #1c1c1c; 
+    --cmed: #113311; 
+    --clink: #25d767;
+    --cemph: #4af78e; 
+    --cemphbg: #4af78e1a;
+}
+
+html[data-theme='harrypotter'] {
+    --cfg: #d4c19c;
+    --cbg: #1e1e1e;
+    --cdark: #394145;
+    --clight: #505a60;
+    --cmed: #a67b5b; 
+    --clink: #947b2d; 
+    --cemph: #7c3a22;
+    --cemphbg: #7c3a221a;
+}
+
+html[data-theme='avatar'] {
+    --cfg: #73c2fb;
+    --cbg: #082032;
+    --cdark: #051922;
+    --clight: #204051;
+    --cmed: #008080;
+    --clink: #00ced1; 
+    --cemph: #7fffd4;
+    --cemphbg: #7fffd41a;
+}
+
+html[data-theme='stackoverflow'] {
+    --cfg: #BBBBBB;
+    --cbg: #2D2D2D;
+    --cdark: #1E1E1E;
+    --clight: #3E3E3E;
+    --cmed: #888888;
+    --cemph: #07C160;
+    --clink: #F48024;
+    --cemphbg: #F480241A;
+}
